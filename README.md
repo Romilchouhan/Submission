@@ -15,6 +15,9 @@ PREVIOUS EXPERIENCE:
     Participated in some ML competitions and worked out few Ml project (from kaggle)
     A few ML topics, and model familiar with: Regression, Classification, Support Vector Machines, Ensemble Learning (Bagging and    Boosting  algorithm),Decision Trees, Artificial Neural Networks, MultiLayer Perceptrons, Networks, GANs and Reinforcement Learning (little bit)
 
+Whatsapp Number:
+---------------
+9351013618
 
 Current PORs:
 -------------
